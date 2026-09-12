@@ -6,8 +6,8 @@ Former professional web developer turned freelancer, currently transitioning int
 
 ### 📌 About Me
 * 📐 Passed **SOA Exams P & FM**
-* 💻 Passionate about **mathematics & computer science**, with a focus on **big data** and **computer graphics**
-* ⚡ Currently spending my free time exploring and building with **Julia**
+* 💻 Passionate about **mathematics & computer science**, especially **big data** and **computer graphics**
+* ⚡ My current hobby is exploring and building with **Julia**
 * 🌐 Background in professional web development & freelance consulting
 
 ---
