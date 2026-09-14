@@ -1,5 +1,3 @@
-# Hi there 👋
-
 Former professional web developer turned freelancer, currently transitioning into the **actuarial field**.
 
 ---
@@ -7,7 +5,7 @@ Former professional web developer turned freelancer, currently transitioning int
 ### 📌 About Me
 * 📐 Passed **SOA Exams P & FM**
 * 💻 Passionate about **mathematics & computer science**, especially **big data** and **computer graphics**
-* ⚡ My current hobby is exploring and building with **Julia**
+* ⚡ My current hobby is learning and building with **Julia**
 * 🌐 Background in professional web development & freelance consulting
 
 ---
